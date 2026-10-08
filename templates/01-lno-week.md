@@ -1,6 +1,6 @@
 # Template 01 · The LNO week
 
-Every Monday, 15 minutes. Based on `references/01-lno-and-time.md`.
+Every Monday, about 15 minutes (our suggestion). Based on `references/01-lno-and-time.md`.
 
 > "All your tasks are not created equal." [L1 00:35:02]
 
@@ -20,16 +20,16 @@ Remember: "the same type of activity can actually be either an L task or an N ta
 
 ## 2. The L you're avoiding
 
-- My L tasks this week (usually 1 to 3): ___________________
+- My L tasks this week (**our suggestion:** if you list more than a handful, re-check them): ___________________
 - The one I keep postponing: ___________________
 - The fear behind it ("pay attention to your fears because they're telling you something" [L1 00:45:40]):
   ___________________
 - My first small step anyway: ___________________
 - Where I'll work on it (changing location is his trick [L1 00:44:26]): ___________________
 
-## 3. If you feel "no time"
+## 3. If you feel “no time”
 
-Which of his 8 is it really? [X 2022-02-14]
+Which of his eight underlying causes is it really? (Our checklist wording of his list in [X 2022-02-14].)
 
 - [ ] Prioritization across teams
 - [ ] Focus on what's been prioritized
