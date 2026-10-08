@@ -12,6 +12,7 @@ Everything in this repo comes from Shreyas Doshi's own words. All accessed on **
 | `[PVP mm:ss]` | Prime Venture Partners podcast, ["Shreyas Doshi on Minimum Lovable Product, Why Strategy is a Misunderstood Word & Benefits of Being Clueless"](https://www.primevp.in/content/podcast/shreyas-doshi-minimum-lovable-product-why-strategy-misunderstood-word-benefits-being-clueless), 24 Jun 2021. Transcript published on the host's page, with speaker labels. Timestamps are the start of his turn, as printed there. |
 | `[SS slug]` | A post on his free Substack, `https://shreyasdoshi.substack.com/p/slug` (table below) |
 | `[X yyyy-mm-dd]` | His post on X (@shreyas), linked where cited (list below) |
+| `[LI yyyy-mm-dd](url)` | His post on LinkedIn ([linkedin.com/in/shreyasdoshi](https://www.linkedin.com/in/shreyasdoshi)), always linked where cited (table below) |
 
 - Lenny's Podcast quotes come from a public transcript archive of the show (not an official Lenny's
   Newsletter transcript). Timestamps mark the start of the paragraph. The archive's front matter for the
@@ -27,6 +28,8 @@ Everything in this repo comes from Shreyas Doshi's own words. All accessed on **
 - Substack quotes are from his own essay text or his own turns in published chats. Lines written by an AI in
   those chats, and the AI-generated audio posts, are not used.
 - X posts are quoted in part (usually one sentence) and exactly; list-style posts are paraphrased and cited.
+- LinkedIn posts follow the same rule: short exact quotes, or a paraphrase with a citation. Only posts he
+  wrote are used (no reshares). Where two posts share a date, the link tells them apart.
 - Bio facts are from his course page on Maven (https://maven.com/shreyas-doshi).
 - Ideas he credits to others are labelled: Elizabeth Grace Saunders (INO, the origin of LNO), Derek Sivers
   (“HELL YEAH”), Eric Weinstein (the term high agency), Daniel Kahneman (the Focusing Illusion), and
@@ -40,6 +43,7 @@ Everything in this repo comes from Shreyas Doshi's own words. All accessed on **
 | `SS 10-ideas-for-2026` | [10 ideas for 2026](https://shreyasdoshi.substack.com/p/10-ideas-for-2026) | 2025-12-30 |
 | `SS 9-axioms-of-interpersonal-communication` | [9 axioms of Interpersonal Communication](https://shreyasdoshi.substack.com/p/9-axioms-of-interpersonal-communication) | 2026-03-25 |
 | `SS becoming-great-at-listening` | [Becoming great at listening](https://shreyasdoshi.substack.com/p/becoming-great-at-listening) | 2025-12-04 |
+| `SS do-you-know-what-you-are-really-selling` | [Do you know what you are really selling?](https://shreyasdoshi.substack.com/p/do-you-know-what-you-are-really-selling) | 2026-06-19 |
 | `SS dont-be-a-full-cup` | [Don't be a full cup](https://shreyasdoshi.substack.com/p/dont-be-a-full-cup) | 2025-12-12 |
 | `SS everything-isnt-meant-for-everyone` | [Everything isn't meant for everyone.](https://shreyasdoshi.substack.com/p/everything-isnt-meant-for-everyone) | 2026-01-02 |
 | `SS get-to-the-core-of-the-thing` | [Get to the Core of the Thing](https://shreyasdoshi.substack.com/p/get-to-the-core-of-the-thing) | 2026-05-16 |
@@ -137,6 +141,32 @@ in images, which we don't quote.
 - 2026-09-29 · https://x.com/shreyas/status/2104967583158149378
 - 2026-10-05 · https://x.com/shreyas/status/2107254835364135176
 
+## LinkedIn posts (16 posts, oldest first)
+
+Retrieved on 8 October 2026 from his profile, which confirms the same person (Stripe Connect and Terminal,
+Stripe's first PM Manager; Twitter, Google, Yahoo). Dates are the exact post timestamps LinkedIn gives, in
+UTC. These are recent posts (July to October 2026); his older LinkedIn posts were not retrieved. Several only
+introduce one of his videos; we quote or paraphrase the post text and never the video.
+
+| ID | Post | Date |
+|---|---|---|
+| `LI 2026-07-23` | [Video link: the Great Manager Lie](https://www.linkedin.com/posts/shreyasdoshi_the-great-manager-lie-activity-7486188785215356928-PiIl) | 2026-07-23 |
+| `LI 2026-07-25` | [Senior interview panels](https://www.linkedin.com/posts/shreyasdoshi_what-every-interviewer-actually-wants-activity-7486876780436533249-yGjV) | 2026-07-25 |
+| `LI 2026-07-26` | [Execution and ideas are one thing](https://www.linkedin.com/posts/shreyasdoshi_if-you-are-very-smart-and-you-operate-as-activity-7487191796280868864-hNtS) | 2026-07-26 |
+| `LI 2026-07-27` | [Who takes the Product Sense course; the skill ceiling](https://www.linkedin.com/posts/shreyasdoshi_latest-data-on-whos-taken-the-product-sense-activity-7487476890035699712-zB3R) | 2026-07-27 |
+| `LI 2026-07-29` | [Reading each interviewer in a leadership loop](https://www.linkedin.com/posts/shreyasdoshi_this-is-not-your-usual-pm-interview-prep-activity-7488363277966569473-gSke) | 2026-07-29 |
+| `LI 2026-08-10` | [Problem-solving mindset and judgment](https://www.linkedin.com/posts/shreyasdoshi_the-mindset-of-successful-product-managers-activity-7492616398595334145--9Q-) | 2026-08-10 |
+| `LI 2026-08-13` | [His hiring mistake: believing any competency is coachable](https://www.linkedin.com/posts/shreyasdoshi_the-hiring-mistake-that-cost-me-the-most-activity-7493707516024049666-7iLS) | 2026-08-13 |
+| `LI 2026-08-15` | [Two places PM careers get stuck](https://www.linkedin.com/posts/shreyasdoshi_how-to-get-unstuck-in-your-pm-career-activity-7494211224189054976-8oM-) | 2026-08-15 |
+| `LI 2026-08-17` | [AI won't save you from building the wrong thing](https://www.linkedin.com/posts/shreyasdoshi_ai-wont-save-you-from-building-the-wrong-activity-7495087044105281536-NyeB) | 2026-08-17 |
+| `LI 2026-09-12` | [AI and skipping the thought process](https://www.linkedin.com/posts/shreyasdoshi_this-is-an-important-point-in-product-too-activity-7504582447133802496-SdQT) | 2026-09-12 |
+| `LI 2026-09-12` | [Helpful traits for the future](https://www.linkedin.com/posts/shreyasdoshi_helpful-traits-for-the-future-desire-activity-7504636637134356480-O2TW) | 2026-09-12 |
+| `LI 2026-09-23` | [List of his career videos](https://www.linkedin.com/posts/shreyasdoshi_how-to-communicate-to-get-recognized-activity-7508314554821562368-39Sq) | 2026-09-23 |
+| `LI 2026-10-03` | [LinkedIn Envy and the Impact Lie](https://www.linkedin.com/posts/shreyasdoshi_the-linkedin-envy-and-the-impact-lie-activity-7511959619187990528-JFKS) | 2026-10-03 |
+| `LI 2026-10-03` | [Mid-career upskilling loop](https://www.linkedin.com/posts/shreyasdoshi_most-mid-career-product-people-who-are-doing-activity-7512147028336914432-5f74) | 2026-10-03 |
+| `LI 2026-10-05` | [Reverse interviewing a company](https://www.linkedin.com/posts/shreyasdoshi_newest-video-in-the-career-series-how-to-activity-7512890036883808256-q40S) | 2026-10-05 |
+| `LI 2026-10-07` | [On tough times at work](https://www.linkedin.com/posts/shreyasdoshi_on-tough-times-at-work-people-are-different-activity-7513631790465544192-sANy) | 2026-10-07 |
+
 ## Not used
 
 - Paid course material and paid newsletter content.
@@ -145,3 +175,5 @@ in images, which we don't quote.
 - Lines written by an AI in chats he links from his Substack, and his Substack's AI-generated audio posts.
 - Links he shares to other people's threads, books and articles: we cite only his own words about them.
 - Second-hand summaries of his frameworks.
+- The videos his LinkedIn posts link to (not transcribed), and other people's posts about his courses.
+- LinkedIn posts that only make sense with an attached image.

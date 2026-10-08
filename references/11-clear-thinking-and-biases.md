@@ -57,6 +57,14 @@ looks, then feedback to "back things up better". [AMP 00:44:14]
 > "Frameworks are intuition, packaged... make the framework work for you, and make sure you don't work for
 > the framework." [X 2023-07-19](https://x.com/shreyas/status/1681697116027068418)
 
+## Think for yourself
+
+His list of "Helpful traits for the future" starts with the desire to think for yourself, then intrinsic
+validation, tolerance for ambiguity, seeking wisdom and not just intelligence, and relationships without
+hierarchy: "These traits always mattered. They are about to matter a lot more." [LI 2026-09-12](https://www.linkedin.com/posts/shreyasdoshi_helpful-traits-for-the-future-desire-activity-7504636637134356480-O2TW) He applies it
+to his own posts: "thinking for yourself is more important than following tips in social media posts,
+including the one you're reading right now." [LI 2026-10-07](https://www.linkedin.com/posts/shreyasdoshi_on-tough-times-at-work-people-are-different-activity-7513631790465544192-sANy)
+
 ## Think, then write (or not)
 
 He argues many people over-rely on writing because "for many that's the only time they are doing clear

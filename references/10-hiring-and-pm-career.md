@@ -20,6 +20,10 @@ He sorts PM attributes into three groups [X 2022-09-28](https://x.com/shreyas/st
 **Our reading:** since the intrinsic column is the one you can't coach, screen hardest for it and plan to
 coach the rest. That inference is ours; the post itself gives the three lists.
 
+He has also described the opposite belief as his own past mistake: "For a long time, I believed strongly that
+anyone can build any PM competency anytime, with the right coaching." He says it came "from a place of
+insufficient empathy for the other person and from ego." [LI 2026-08-13](https://www.linkedin.com/posts/shreyasdoshi_the-hiring-mistake-that-cost-me-the-most-activity-7493707516024049666-7iLS)
+
 From his high-agency thread: he prefers "Go Getters over Frustrated Geniuses" and never compromises on
 integrity. [X 2020-06-27, 5/20](https://x.com/shreyas/status/1276956842602541056)
 
@@ -79,8 +83,35 @@ Mid-career, ambitious people ask what they should do, but rarely what they shoul
 [SS the-ceiling-is-far-higher-than-you] And: "Because when it comes to your career, you are the user."
 [SS on-mid-career-satisfaction]
 
+On LinkedIn he names two false assumptions of mid-career product people: that they are already near the
+ceiling of key skills, and that upskilling only matters for a future job. The second pushes learning into a
+"later" pile, so "they stay stuck in an infinite loop: too busy to upskill, and too busy because they haven't
+upskilled." [LI 2026-10-03](https://www.linkedin.com/posts/shreyasdoshi_most-mid-career-product-people-who-are-doing-activity-7512147028336914432-5f74) **Our reading:** treat upskilling as a way to win back time in the current job,
+not just a promotion plan.
+
+His view of motivation is personal, not prescriptive. Some people get through tough times through impact,
+some through what the job lets them do elsewhere in life, some through mastery; none is morally better. His
+advice: "So start by looking at what's actually gotten you through stressful times before." [LI 2026-10-07](https://www.linkedin.com/posts/shreyasdoshi_on-tough-times-at-work-people-are-different-activity-7513631790465544192-sANy)
+
 > "Identify your superpowers, because if you identify your superpowers and work in accordance with them, you
 > will do the best work of your life." [L2 42:34]
+
+## Interviews and career moves
+
+- **Senior interview loops are often weak.** "Most people in your interview panel do not know how to
+  interview senior product people & what questions to ask you." [LI 2026-07-25](https://www.linkedin.com/posts/shreyasdoshi_what-every-interviewer-actually-wants-activity-7486876780436533249-yGjV) His answer is to read each
+  interviewer and give them what they are actually looking for, "even if their specific questions are weak or
+  nonsensical." [LI 2026-07-29](https://www.linkedin.com/posts/shreyasdoshi_this-is-not-your-usual-pm-interview-prep-activity-7488363277966569473-gSke)
+- **Interview them back.** He has a video on how to reverse interview a company and assess the quality of
+  its talent. [LI 2026-10-05](https://www.linkedin.com/posts/shreyasdoshi_newest-video-in-the-career-series-how-to-activity-7512890036883808256-q40S)
+- **Two places careers stall:** senior ICs aiming for more scope and impact, and GPMs or Directors aiming for
+  VP or CPO roles. [LI 2026-08-15](https://www.linkedin.com/posts/shreyasdoshi_how-to-get-unstuck-in-your-pm-career-activity-7494211224189054976-8oM-)
+- **Regret traps.** "LinkedIn Envy and the Impact Lie are the root cause of many career regrets of
+  otherwise-smart people." [LI 2026-10-03](https://www.linkedin.com/posts/shreyasdoshi_the-linkedin-envy-and-the-impact-lie-activity-7511959619187990528-JFKS)
+- **Named but not explained here.** His 2026 career video series also covers the 1% Rule ("always be
+  looking"), the LMS Framework for growing competence, the Mission Lie, the Great Manager Lie, choosing
+  between offers and negotiating pay with integrity. [LI 2026-09-23](https://www.linkedin.com/posts/shreyasdoshi_how-to-communicate-to-get-recognized-activity-7508314554821562368-39Sq) [LI 2026-07-23](https://www.linkedin.com/posts/shreyasdoshi_the-great-manager-lie-activity-7486188785215356928-PiIl) The details are in the videos,
+  which we don't transcribe, so this repo names them only.
 
 ## How to apply it to a hire (our reading)
 

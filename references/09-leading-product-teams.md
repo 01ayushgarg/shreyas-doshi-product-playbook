@@ -46,6 +46,8 @@ do say about delegation:
   team, your one-on-ones and team rituals instead. [AMP 01:08:20]
 - **Habit and identity** keep leaders stuck: "This is my identity, this is how I operate." Some even compare
   whose calendar is worse. [AMP 01:08:20]
+- **Skill gaps make you busy too.** Operating "well below the true ceiling of product leadership skills
+  means that scope eats far more of their time than it needs to." [LI 2026-10-03](https://www.linkedin.com/posts/shreyasdoshi_most-mid-career-product-people-who-are-doing-activity-7512147028336914432-5f74) See `10-hiring-and-pm-career.md`.
 
 ## From IC to manager
 

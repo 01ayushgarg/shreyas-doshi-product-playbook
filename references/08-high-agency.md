@@ -59,6 +59,11 @@ creative execution and resilience. [L1 01:13:56]
 
 > "Indeed, High Agency without Keen Judgment = Trainwreck" [X 2026-05-13](https://x.com/shreyas/status/2054620576346689844)
 
+He makes the same point about the problem-solving mindset: a 2026 video of his covers "why problem solvers
+must also develop great judgment" and "the downsides of solving all problems". [LI 2026-08-10](https://www.linkedin.com/posts/shreyasdoshi_the-mindset-of-successful-product-managers-activity-7492616398595334145--9Q-) (We use only the
+post's text, not the video.) **Our reading:** agency tells you that you can act; judgment tells you which
+problems deserve it.
+
 ## His updated view, and the cost
 
 In 2020 he wrote that some people are born or raised with high agency, and "It can also be developed later in
