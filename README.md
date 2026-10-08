@@ -6,7 +6,7 @@ early-stage product decisions, built only from Shreyas Doshi's own words.**
 Shreyas Doshi led products at Stripe, Twitter, Google and Yahoo, and was Stripe's first PM manager. His
 frameworks (LNO, pre-mortems, impact / execution / optics, and the idea that most execution problems are really strategy problems)
 are some of the most used ideas in product management. This repo turns two Lenny's Podcast episodes, an
-Amplitude interview, a founder-focused podcast, 23 of his essays and 69 of his posts into a method you can
+Amplitude interview, a founder-focused podcast, 24 of his essays, 69 of his posts on X and 16 of his LinkedIn posts into a method you can
 run this week, with a separate track for founders.
 
 > "Most execution problems that I encounter in a high performing environment where everybody has the right
@@ -156,8 +156,8 @@ timestamp, essay or post it comes from.
 ## Sources
 
 Lenny's Podcast (2022 and 2024), Amplitude's *Product Lessons Learned* interview (2021), the Prime Venture
-Partners podcast (2021), 23 posts from his Substack (2025 to 2026), 69 posts on X (2020 to 2026, including the
-full 2020 high-agency thread), and his Maven bio. Full list with links and dates in [`SOURCES.md`](SOURCES.md).
+Partners podcast (2021), 24 posts from his Substack (2025 to 2026), 69 posts on X (2020 to 2026, including the
+full 2020 high-agency thread), 16 posts on LinkedIn (July to October 2026), and his Maven bio. Full list with links and dates in [`SOURCES.md`](SOURCES.md).
 
 ## License
 

@@ -9,6 +9,10 @@ skill." [X 2021-10-13](https://x.com/shreyas/status/1448097811912855553)
 His definition: "the ability to make more correct product decisions, macro and micro, in the presence of
 ambiguity." [SS influence-power-and-product-management]
 
+It is not only a PM skill. In a post about who takes his course, he writes: "If you build products (regardless
+of your role), Product Sense is the main skill to hone and the ceiling for this skill is way higher than you
+think it is" [LI 2026-07-27](https://www.linkedin.com/posts/shreyasdoshi_latest-data-on-whos-taken-the-product-sense-activity-7487476890035699712-zB3R). (The post promotes his paid course; we use only its public text.)
+
 ## The five skills it's made of
 
 In his 2026 essay he breaks product sense into five skills, each with a test question
@@ -91,7 +95,11 @@ A question he quotes from his Twitter days: "how does this make our users love T
   motivation, very clearly thinking through differentiation, very clearly thinking through a distribution
   approach." [L2 19:32]
 - **Tools as a strategy:** "Tools have never been a significant source of alpha in product success and that
-  is not changing with AI tools." [SS why-product-sense-is-the-only-product]
+  is not changing with AI tools." [SS why-product-sense-is-the-only-product] Or, shorter: "AI won't save you
+  from building the wrong thing." [LI 2026-08-17](https://www.linkedin.com/posts/shreyasdoshi_ai-wont-save-you-from-building-the-wrong-activity-7495087044105281536-NyeB)
+- **Letting AI skip the path:** teams using AI for more answers and prototypes "are also bypassing the
+  thought process (the path), atrophying essential product skills, inviting their own obsolescence." His fix
+  is "a genuine commitment to your craft, as it always has been." [LI 2026-09-12](https://www.linkedin.com/posts/shreyasdoshi_this-is-an-important-point-in-product-too-activity-7504582447133802496-SdQT)
 
 ## How to apply it (our reading)
 

@@ -2,7 +2,7 @@
 
 Citations: `[L1 hh:mm:ss]` and `[L2 mm:ss]` = Lenny's Podcast 2022 and 2024 · `[AMP hh:mm:ss]` = Amplitude
 interview, 2021 · `[PVP mm:ss]` = Prime Venture Partners podcast, 2021 · `[SS slug]` = his Substack ·
-`[X date]` = his post on X. Full list in `SOURCES.md`.
+`[X date]` = his post on X · `[LI date]` = his post on LinkedIn. Full list in `SOURCES.md`.
 
 A product leader best known for turning lessons from Stripe, Twitter, Google and Yahoo into frameworks that
 product people actually use: LNO, pre-mortems, the three levels of product work, and the idea that most
@@ -22,7 +22,7 @@ execution problems are really strategy problems [L1 00:54:49].
 
 Two Lenny's Podcast episodes (2022, and live in 2024), a 2021 interview with Amplitude, a 2021 founder-focused
 podcast with Prime Venture Partners, a free Substack (since December 2025), and years of posts on X
-(@shreyas). This repo uses all six. See `SOURCES.md`.
+(@shreyas) and LinkedIn (linkedin.com/in/shreyasdoshi). This repo uses all seven. See `SOURCES.md`.
 
 ## His own warnings about his advice
 
@@ -39,6 +39,8 @@ He is unusually direct about how not to use him:
   [AMP 00:30:29]
 - **Frameworks are tools.** "Make the framework work for you, and make sure you don't work for the
   framework." [X 2023-07-19](https://x.com/shreyas/status/1681697116027068418)
+- **Not even his word.** On what keeps people going through hard stretches at work: "do not take anyone
+  else's word (certainly not mine) for what's right for you." [LI 2026-10-07](https://www.linkedin.com/posts/shreyasdoshi_on-tough-times-at-work-people-are-different-activity-7513631790465544192-sANy)
 
 ## Mindset, principles, tactics: the order to learn him in
 

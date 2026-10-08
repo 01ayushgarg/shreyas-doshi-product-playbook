@@ -110,6 +110,10 @@ you are thinking about it". **Our reading:** fix the first one first.
 He notes that people's strong take on whether execution or strategy matters more "is based on whatever it is
 that they happen to be better at." [X 2024-05-20](https://x.com/shreyas/status/1792563082365128940)
 
+He goes further on LinkedIn: treat execution and ideas as distinct phases and "you will never get great at
+either." His alternative: "Greatness requires a visceral understanding that execution and ideas are one thing,
+not two." [LI 2026-07-26](https://www.linkedin.com/posts/shreyasdoshi_if-you-are-very-smart-and-you-operate-as-activity-7487191796280868864-hNtS)
+
 ## How to apply it (our reading)
 
 1. **Write the symptom** in one sentence (for example: we missed three dates in a row).

@@ -7,7 +7,7 @@ description: Diagnose and fix product, product-leadership and early-stage founde
 
 An unofficial, sourced method for running a product team, a product career and early-stage product
 decisions, built only from Shreyas Doshi's own words: two Lenny's Podcast episodes, an Amplitude interview,
-a Prime Venture Partners podcast, his Substack, and his posts on X. Who he is:
+a Prime Venture Partners podcast, his Substack, and his posts on X and LinkedIn. Who he is:
 `references/00-who-is-shreyas-doshi.md`.
 
 > "Most execution problems that I encounter in a high performing environment where everybody has the right
@@ -16,7 +16,9 @@ a Prime Venture Partners podcast, his Substack, and his posts on X. Who he is:
 ## Ground rules for the agent
 
 - Every point cites `SOURCES.md` IDs: `[L1 hh:mm:ss]`, `[L2 mm:ss]`, `[AMP hh:mm:ss]`, `[PVP mm:ss]`,
-  `[SS slug]`, `[X yyyy-mm-dd]`. **Never put words in his mouth.** If the playbook doesn't cover it, say so.
+  `[SS slug]`, `[X yyyy-mm-dd]`, `[LI yyyy-mm-dd](url)`. **Never put words in his mouth.** If the playbook doesn't cover it, say so.
+- LinkedIn posts: always cite with the link, because two posts can share a date. Many of them only introduce
+  one of his videos; cite what the post says, and never claim to know what the video says.
 - Keep his words and ours apart. The “How to apply it” sections, numbers, thresholds and template steps
   marked **Our reading** / **Our suggestion** are not his; say so when you use them.
 - His frameworks are tools, not laws: "make the framework work for you, and make sure you don't work for the
