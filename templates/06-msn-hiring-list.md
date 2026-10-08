@@ -27,4 +27,6 @@ process (resume, interview, reference check). [X 2023-05-02]
 - **Learnable:** cognitive empathy, high agency, deep focus, judgment, creativity
 - **Intrinsic:** drive, integrity, curiosity, deep care, ownership
 
-Are your Must-haves mostly intrinsic? If they're mostly coachable, you may be screening for the wrong things.
+**Our reading:** are your Must-haves mostly intrinsic? If they're mostly coachable, you may be screening for
+things you could teach. Also check his high-agency hiring preference: Go Getters over Frustrated Geniuses,
+and never compromise on integrity [X 2020-06-27, 5/20 to 6/20].

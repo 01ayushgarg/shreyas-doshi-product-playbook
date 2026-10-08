@@ -1,4 +1,4 @@
-# Template 03 · "We have an execution problem." Is it really?
+# Template 03 · We have an execution problem. Is it really?
 
 Based on `references/04-strategy-vs-execution.md`.
 
@@ -8,7 +8,7 @@ Based on `references/04-strategy-vs-execution.md`.
 
 The symptom (what's going wrong, specifically): _____________________________________
 
-## Ask four questions
+## Ask four questions (the questions are our wording of his four causes)
 
 | Possible root cause | Question to ask | Evidence for | Evidence against |
 |---|---|---|---|
@@ -19,8 +19,8 @@ The symptom (what's going wrong, specifically): ________________________________
 
 ## The band-aid test
 
-Have you already "fixed" this once or twice? "When you put on a bandaid and the bandaid falls" [L1 01:01:18],
-the root cause is elsewhere.
+Have you already fixed this once or twice? His test is "when you put on a bandaid and the bandaid falls"
+[L1 01:01:18]: then the root cause is elsewhere.
 
 - Previous fixes tried: ___________________
 - Why they didn't hold: ___________________

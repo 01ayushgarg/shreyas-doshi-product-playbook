@@ -12,7 +12,7 @@ Based on `references/05-opportunity-cost-and-prioritization.md`.
 | | | | |
 | | | | |
 
-Don't compute it precisely: "I do not recommend trying to quantify opportunity costs." [L1 01:08:51] Just ask
+Don't compute it precisely: "I do not recommend trying to quantify opportunity costs." [L1 01:08:51] **Our suggestion:** just ask
 the question honestly for each row.
 
 ## 2. The allocation
@@ -22,7 +22,7 @@ His guidance (adjust to your situation, "pick whatever is right for you" [L1 01:
 | Bucket | His guide | Ours |
 |---|---|---|
 | Incremental features | ~60% | |
-| Big new initiatives (one or two, not five) | ~30% | |
+| Big new initiatives (“probably one or two” [L1 01:10:43]) | ~30% | |
 | Stability and infrastructure | ~10% | |
 
 ## 3. Quick-win audit
